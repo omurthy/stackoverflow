@@ -1,0 +1,7 @@
+ 
+entity ActivePairs { 
+	id String
+	exchangeId String
+	email String  
+}
+ 

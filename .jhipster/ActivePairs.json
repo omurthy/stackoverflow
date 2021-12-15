@@ -1,0 +1,25 @@
+{
+  "name": "ActivePairs",
+  "fields": [
+    {
+      "fieldName": "exchangeId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "email",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "changelogDate": "20211209190528",
+  "entityTableName": "active_pairs",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}
